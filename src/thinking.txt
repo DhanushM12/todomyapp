@@ -1,0 +1,16 @@
+Think to create an application
+1. Visualize our app (UI) -> Wire Framing (Not To be learned)
+2. Functionality
+	- Add Task
+	- Remove Task
+	- Timer
+3. tasks - []
+4. Functions:
+	- addTask
+	- removeTask
+5. Component
+	- App
+	- TodoMain
+	- TodoItem
+
+App -> TodoMain -> TodoList
